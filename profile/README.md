@@ -14,3 +14,5 @@ This page is dedicated to disseminating research products/publications on artifi
 |Srijana Raut| Treasurer|
 |Suprim Nakarmi| Secretary|
 
+## Projects and Researchs
+
