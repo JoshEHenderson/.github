@@ -22,3 +22,10 @@ This page is dedicated to disseminating research products/publications on artifi
 ## Useful Resources
 
 - <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash Course Series</a>
+
+## List of Contributers
+<ul>
+<li><a href = 'https://github.com/orgs/padam56'>Padam Jung Thapa</a></li>
+<li><a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a></li>
+<li><a href = 'https://github.com/orgs/suprimnakarmi'>Suprim Nakarmi</a></li>
+</ul>
