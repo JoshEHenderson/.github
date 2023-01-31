@@ -1,7 +1,7 @@
 # Applied Artificial Intelligence Club
 
 ## Welcome 👋
-This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
+Welcome to the github repository of Applied AI Club. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
 
 
 ## Current Members of the Club
@@ -29,3 +29,7 @@ This page is dedicated to disseminating research products/publications on artifi
 <li><a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a></li>
 <li><a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a></li>
 </ul>
+
+
+## Contact US
+- <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
