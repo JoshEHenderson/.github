@@ -25,7 +25,7 @@ This page is dedicated to disseminating research products/publications on artifi
 
 ## List of Contributers
 <ul>
-<li><a href = 'https://github.com/orgs/padam56'>Padam Jung Thapa</a></li>
+<li><a href = 'https://github.com/padam56'>Padam Jung Thapa</a></li>
 <li><a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a></li>
-<li><a href = 'https://github.com/orgs/suprimnakarmi'>Suprim Nakarmi</a></li>
+<li><a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a></li>
 </ul>
