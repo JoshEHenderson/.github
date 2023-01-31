@@ -2,7 +2,7 @@
 This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
 
 
-## Current Board Members of the Club
+## Current Members of the Club
 
 
 |Member| Designation |
