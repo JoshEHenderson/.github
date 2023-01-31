@@ -1,4 +1,4 @@
-# Applied Artificial Intelligence Club
+# Applied Artificial Intelligence Labs
 
 ## Welcome 👋
 Welcome to the github repository of Applied AI Club. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
@@ -17,8 +17,8 @@ Welcome to the github repository of Applied AI Club. This page is dedicated to d
 |Suprim Nakarmi| Secretary|
 
 ## Projects and Researchs
-
-
+- <a href = 'https://github.com/2AI-Lab/Graph-Neural-Network'>Graph Neural Network</a>
+- <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML Tools</a>
 ## Useful Resources
 
 - <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash Course Series</a>
