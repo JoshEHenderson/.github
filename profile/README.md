@@ -21,10 +21,11 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 ... coming up
 
 
-# Current 2AI research lab members:
+# 2AI research lab tema
 KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>)</br>
 Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
+## Current members
 Josh Henderson, MS Student (G/RA)</br>
 Siddhi Kiran Bajracharya, MS Student (G/RA)</br>
 Srijana Raut, MS Student (G/RA)</br>
