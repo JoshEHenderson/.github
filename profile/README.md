@@ -4,18 +4,18 @@ Department of Computer Science, The University of South Dakota
 ## Welcome 👋
 Welcome to the GitHub repository of the Applied AI research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
 
-## Projects (science & engineering)
+## Research (science & engineering)
+### Projects 
+
+### Data science & machine learning tools
 - <a href = 'https://github.com/2AI-Lab/Graph-Neural-Network'>Graph Neural Network</a>
-- <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML Tools</a>
-## Useful resources
-- <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash Course Series</a>
+- <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML tools</a>
 
 ## List of contributers
-<ul>
-<li><a href = 'https://github.com/padam56'>Padam Jung Thapa</a></li>
-<li><a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a></li>
-<li><a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a></li>
-</ul>
+<a href = 'https://github.com/padam56'>Padam Jung Thapa</a>, 
+<a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a>,
+<a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a> 
+
 
 ## Publications
 ... coming up
@@ -41,5 +41,8 @@ Nikita Shrestha, Public relations officer </br>
 Srijana Raut, Treasurer</br>
 Suprim Nakarmi, Secretary</br>
 KC Santosh, Advisor
+
+## 2AI club resources
+- <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash course series</a>
 
 ## Follow us in <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
