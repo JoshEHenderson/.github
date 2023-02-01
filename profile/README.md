@@ -6,6 +6,7 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 
 ## Research (science & engineering)
 ### Healthcare - medical imaging informatics
+<a href = '[https://github.com/2AI-Lab](https://github.com/2AI-Lab/medical-imaging-datasets)'>5K+ CT scans - fractured limbs (dataset)</a>
 <a href = 'https://github.com/2AI-Lab'>fractured limbs (classification & detection)</a>, <a href = 'https://github.com/2AI-Lab'>Covid-19 (screening)</a>
 
 ### Data science & machine learning tools
