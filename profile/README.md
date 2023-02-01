@@ -11,11 +11,6 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 - <a href = 'https://github.com/2AI-Lab/Graph-Neural-Network'>Graph Neural Network</a>
 - <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML tools</a>
 
-## List of contributers
-<a href = 'https://github.com/padam56'>Padam Jung Thapa</a>, 
-<a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a>,
-<a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a> 
-
 
 ## Publications
 ... coming up
@@ -34,7 +29,7 @@ Gaurrav Subedi, MS Student (G/RA)</br>
 ...
 
 
-## Applied AI student club - The University of South Dakota
+# Applied AI student club - The University of South Dakota
 Siddhi Kiran Bajracharya, President </br>
 Josh Henderson, Vice president </br>
 Nikita Shrestha, Public relations officer </br>
@@ -45,4 +40,10 @@ KC Santosh, Advisor
 ## 2AI club resources
 - <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash course series</a>
 
-## Follow us in <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
+## List of contributers
+<a href = 'https://github.com/padam56'>Padam Jung Thapa</a>, 
+<a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a>,
+<a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a> 
+
+## Follow us (to know more)
+<a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
