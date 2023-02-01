@@ -1,4 +1,4 @@
-# Applied Artificial Intelligence (AI) Research Lab
+# Applied Artificial Intelligence (AI) research lab
 Department of Computer Science, The University of South Dakota
 
 ## Welcome 👋
@@ -21,7 +21,7 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 ... coming up
 
 
-# 2AI research lab tema
+# 2AI research lab team
 KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>)</br>
 Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
@@ -35,15 +35,11 @@ Gaurrav Subedi, MS Student (G/RA)</br>
 
 
 ## Applied AI student club - The University of South Dakota
-
-|Member| Designation |
-|------|-------------|
-|Josh Henderson| Vice President|
-|KC Santosh| Advisor|
-|Nikita Shrestha| Public Relations Officer|
-|Siddhi Kiran Bajracharya| President|
-|Srijana Raut| Treasurer|
-|Suprim Nakarmi| Secretary|
-
+Siddhi Kiran Bajracharya, President </br>
+Josh Henderson, Vice president </br>
+Nikita Shrestha, Public relations officer </br>
+Srijana Raut, Treasurer</br>
+Suprim Nakarmi, Secretary</br>
+KC Santosh, Advisor
 
 ## Follow us in <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
