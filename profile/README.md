@@ -28,6 +28,12 @@ Suprim Nakarmi, MS Student (G/RA)</br>
 Gaurrav Subedi, MS Student (G/RA)</br>
 ...
 
+## Past members
+Muntamir Mamun, 
+Afia Farjana, 
+Casey Wall, 
+Nikita Shrestha, 
+...
 
 # Applied AI student club - The University of South Dakota
 Siddhi Kiran Bajracharya, President </br>
