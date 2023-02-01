@@ -35,17 +35,6 @@ Casey Wall,
 Nikita Shrestha, 
 ...
 
-# Applied AI student club - The University of South Dakota
-Siddhi Kiran Bajracharya, President </br>
-Josh Henderson, Vice president </br>
-Nikita Shrestha, Public relations officer </br>
-Srijana Raut, Treasurer</br>
-Suprim Nakarmi, Secretary</br>
-KC Santosh, Advisor
-
-## 2AI club resources
-- <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash course series</a>
-
 ## List of contributers
 <a href = 'https://github.com/padam56'>Padam Jung Thapa</a>, 
 <a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a>,
@@ -53,3 +42,16 @@ KC Santosh, Advisor
 
 ## Follow us (to know more)
 <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
+
+## Applied AI student club - The University of South Dakota
+Siddhi Kiran Bajracharya, President </br>
+Josh Henderson, Vice president </br>
+Nikita Shrestha, Public relations officer </br>
+Srijana Raut, Treasurer</br>
+Suprim Nakarmi, Secretary</br>
+KC Santosh, Advisor
+
+### 2AI club resources
+- <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash course series</a>
+
+
