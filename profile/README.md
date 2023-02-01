@@ -6,7 +6,11 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 
 ## Research (science & engineering)
 ### Projects 
-
+#### Healthcare 
+<a href = 'https://github.com/2AI-Lab'>fractured limbs (classification & detection)</a>, <a href = 'https://github.com/2AI-Lab'>Covid-19 (screening)</a>
+#### Document image analysis
+#### IoT
+### 
 ### Data science & machine learning tools
 - <a href = 'https://github.com/2AI-Lab/Graph-Neural-Network'>Graph Neural Network</a>
 - <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML tools</a>
