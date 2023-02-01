@@ -15,8 +15,8 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 - <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML tools</a>
 
 
-## Publications
-... coming up
+## Publications (research) 
+<a href = 'https://github.com/2ai-lab'>list of publication</a>
 
 
 # 2AI research lab team
