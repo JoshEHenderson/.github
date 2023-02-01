@@ -5,12 +5,9 @@ Department of Computer Science, The University of South Dakota
 Welcome to the GitHub repository of the Applied AI research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
 
 ## Research (science & engineering)
-### Projects 
-#### Healthcare 
+### Healthcare - medical imaging informatics
 <a href = 'https://github.com/2AI-Lab'>fractured limbs (classification & detection)</a>, <a href = 'https://github.com/2AI-Lab'>Covid-19 (screening)</a>
-#### Document image analysis
-#### IoT
-### 
+
 ### Data science & machine learning tools
 - <a href = 'https://github.com/2AI-Lab/Graph-Neural-Network'>Graph Neural Network</a>
 - <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML tools</a>
