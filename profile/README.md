@@ -9,8 +9,6 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 <a href = 'https://github.com/2AI-Lab/medical-imaging-datasets'>5K+ CT scans - fractured limbs (dataset)</a></br>
 <a href = 'https://github.com/2AI-Lab'>Fractured limbs (classification & detection)</a> </br> 
 <a href = 'https://github.com/2AI-Lab'>Covid-19 (screening)</a>
-<a href = 'https://github.com/2AI-Lab'>Machine learning innovation should not be limited to building models (book, to appear)</a>
-<a href = 'https://github.com/2AI-Lab'>Graph neural network - when to deploy? (book, to appear)</a>
 <a href = 'https://github.com/2AI-Lab'>Multimodal learning & representation (Pneumonia)</a>
 
 
@@ -18,10 +16,12 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 - <a href = 'https://github.com/2AI-Lab/Graph-Neural-Network'>Graph Neural Network</a>
 - <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML tools</a>
 
-
-## Publications (research) 
-<a href = 'https://github.com/2ai-lab'>list of publication</a>
-
+## Publications (research)
+### Research articles 
+<a href = 'https://github.com/2ai-lab'>List of publications</a>
+### Books
+<a href = 'https://github.com/2AI-Lab'>Machine learning innovation should not be limited to building models (book, to appear)</a>
+<a href = 'https://github.com/2AI-Lab'>Graph neural network - when to deploy? (book, to appear)</a>
 
 # 2AI research lab team
 KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>)</br>
