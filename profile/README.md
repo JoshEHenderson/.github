@@ -1,16 +1,22 @@
 # Applied Artificial Intelligence (AI) Research Lab
-## Department of Computer Science, The University of South Dakota
+Department of Computer Science, The University of South Dakota
 
 ## Welcome 👋
 Welcome to the GitHub repository of the Applied AI research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
 
 # Applied AI research lab members:
-KC Santosh, Founder & Director, 2AI research lab (<a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>
-
+KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>
+Rodrigue Rizk, PhD
+Aaisha Makkar, PhD (University of Derby)
+Josh Henderson, MS Student (G/RA)
+Siddhi Kiran Bajracharya, MS Student (G/RA)
+Srijana Raut, MS Student (G/RA)
+Suprim Nakarmi, MS Student (G/RA)
+Gaurrav Subedi, MS Student (G/RA)
+...
 
 
 ## Current Members of the Club
-
 
 |Member| Designation |
 |------|-------------|
