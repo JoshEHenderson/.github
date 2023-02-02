@@ -4,6 +4,9 @@ Department of Computer Science, The University of South Dakota
 ## Welcome 👋
 Welcome to the GitHub repository of the Applied AI research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
 
+We actively participate and/or sponsor the International Conf on Recent Trends in Image Processing & Pattern Recognition (<a href='https://rtip2r-conference.org'>RTIP2R</a>). 
+
+
 ## Research (science & engineering)
 ### Healthcare - medical imaging informatics
 - <a href = 'https://github.com/2AI-Lab/medical-imaging-datasets'>5K+ CT scans - fractured limbs (dataset)</a></br>
@@ -76,10 +79,14 @@ Nikul Vyas,
 
 ...
 
+
 ## List of contributers
 <a href = 'https://github.com/padam56'>Padam Jung Thapa</a>, 
 <a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a>,
 <a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a> 
+
+## Openings: 
+We regular have openings for research positions, and strongly suggest to contact at santosh.kc@usd.edu | santosh.kc@ieee.org
 
 ## Follow us (to know more)
 <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
