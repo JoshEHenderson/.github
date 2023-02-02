@@ -20,8 +20,8 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 ### Research articles 
 <a href = 'https://github.com/2ai-lab'>List of publications</a>
 ### Books
-<a href = 'https://github.com/2AI-Lab'>Machine learning innovation should not be limited to building models (book, to appear)</a>
-<a href = 'https://github.com/2AI-Lab'>Graph neural network - when to deploy? (book, to appear)</a>
+<a href = 'https://github.com/2AI-Lab'>Building models is not machine learning innovation (book, to appear)</a></br>
+<a href = 'https://github.com/2AI-Lab'>Graph neural networks - when to deploy? (book, to appear)</a>
 
 ## 2AI research lab team
 KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>)</br>
