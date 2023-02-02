@@ -67,15 +67,17 @@ Casey Wall,
 Nikita Shrestha, 
 Siva Allu, 
 Prakash Madai, 
+Shotadbi Roy, 
+Supriti Ghosh, 
 Bruce Stofft,
 Afia Farjana, 
 Jahirul Islam,
 Haidong Wang, 
-Shotadbi Roy, 
-Supriti Ghosh, 
+Alina Chu, 
+Airu Liu
 Fatema Tu Zohora, 
 A Afaque, 
-Nikul Vyas,
+Nikul Vyas, 
 
 ...
 
@@ -86,7 +88,7 @@ Nikul Vyas,
 <a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a> 
 
 ## Openings: 
-We regular have openings for research positions, and strongly suggest to contact at santosh.kc@usd.edu | santosh.kc@ieee.org
+We frequently have openings for research positions, and strongly suggest to contact at santosh.kc@usd.edu | santosh.kc@ieee.org
 
 ## Follow us (to know more)
 <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
