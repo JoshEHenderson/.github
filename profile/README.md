@@ -17,8 +17,8 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 - <a href = 'https://github.com/2AI-Lab/Machine-Learning-Tools'>ML tools</a>
 
 ## Publications (research)
-### Research articles 
-<a href = 'https://github.com/2ai-lab'>List of publications</a>
+### <a href = 'https://github.com/2ai-lab'>Research articles (list)</a>
+
 ### Books
 - <a href = 'https://github.com/2AI-Lab'>Active Learning meets Federated Learning – Healthcare Informatics</a> (contract signed, with Aaisha Makkar - University of Derby)
 - <a href = 'https://github.com/2AI-Lab'>Building models is not machine learning innovation (book, to appear)</a></br>
