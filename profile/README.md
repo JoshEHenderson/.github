@@ -49,11 +49,13 @@ Ronaj Pradhan, MS Student (G/RA)</br>
 ...
 
 ## Past members
+Jose David Cortes, 
 Muntamir Mamun, 
 Rafia Sharmin Alice,
 Casey Wall, 
 Nikita Shrestha, 
 Siva Allu, 
+Bruce Stofft,
 Afia Farjana, 
 Jahirul Islam,
 Haidong Wang, 
