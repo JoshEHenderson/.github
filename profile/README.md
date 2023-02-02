@@ -23,11 +23,11 @@ Welcome to the GitHub repository of the Applied AI research lab. This page is de
 <a href = 'https://github.com/2AI-Lab'>Machine learning innovation should not be limited to building models (book, to appear)</a>
 <a href = 'https://github.com/2AI-Lab'>Graph neural network - when to deploy? (book, to appear)</a>
 
-# 2AI research lab team
+## 2AI research lab team
 KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>)</br>
 Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
-## Current members
+### Current members
 Josh Henderson, MS Student (G/RA)</br>
 Siddhi Kiran Bajracharya, MS Student (G/RA)</br>
 Hugo Morvan, BS Student (RA)</br>
@@ -48,7 +48,7 @@ Anup Dhakal, MS Student (G/RA)</br>
 Ronaj Pradhan, MS Student (G/RA)</br>
 ...
 
-## Past members
+### Past members
 Jose David Cortes, 
 Muntamir Mamun, 
 Rafia Sharmin Alice,
