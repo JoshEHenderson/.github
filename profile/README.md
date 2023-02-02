@@ -30,33 +30,40 @@ KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-sant
 Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
 ### Current members
-Josh Henderson, MS Student (G/RA)</br>
-Siddhi Kiran Bajracharya, MS Student (G/RA)</br>
-Hugo Morvan, BS Student (RA)</br>
-Suprim Nakarmi, MS Student (G/RA)</br>
-Nickolas Rasmussen, MS Student (G/RA)</br> 
-Hansakrish Kuttubaskar, MS Student (G/RA)</br>
-Praveen Paramsivam, MS Student (G/RA)</br>
-Abhishek Chaudhary, MS Student (G/RA)</br> 
-A Matthew Chacko, MS Student (G/RA)</br> 
-KalyanVikram Muppudoju, MS Student (G/RA)</br>
-Srijana Raut, MS Student (G/RA)</br>
-Suprim Nakarmi, MS Student (G/RA)</br>
-Gaurrav Subedi, MS Student (G/RA)</br>
-Rakshya Dahal, MS Student (G/RA)</br> 
-Alisha Karna, MS Student (G/RA)</br>
-Aarati Dhungel, MS Student (G/RA)</br>
-Anup Dhakal, MS Student (G/RA)</br>
-Ronaj Pradhan, MS Student (G/RA)</br>
+Josh Henderson, Grad student (G/RA)</br>
+Siddhi Kiran Bajracharya, Grad student (G/RA)</br>
+Hugo Morvan, Undergrad student (RA)</br>
+Suprim Nakarmi, Grad Student (G/RA)</br>
+Nickolas Rasmussen, Grad student (G/RA)</br> 
+Hansakrish Kuttubaskar, Grad student (G/RA)</br>
+Praveen Paramsivam, Grad student (G/RA)</br>
+Abhishek Chaudhary, Grad student (G/RA)</br> 
+A Matthew Chacko, Grad student (G/RA)</br> 
+KalyanVikram Muppudoju, Grad student (G/RA)</br>
+Srijana Raut, Grad student (G/RA)</br>
+Suprim Nakarmi, Grad student (G/RA)</br>
+Gaurrav Subedi, Grad student (G/RA)</br>
+Rakshya Dahal, Grad student (G/RA)</br> 
+Alisha Karna, Grad student (G/RA)</br>
+Aarati Dhungel, Grad student (G/RA)</br>
+Anup Dhakal, Grad student (G/RA)</br>
+Ronaj Pradhan, Grad student (G/RA)</br>
+Md Masum Rana, Grad student (G/RA)</br>
+Bipul Bhattarai, Grad student (G/RA)</br>
 ...
 
 ### Past members
 Jose David Cortes, 
+Bichar Shrestha Gurung, 
+Bigyan Shrestha, 
+Raman Regmi, 
+Adedeji Waisu Yusuff,
 Muntamir Mamun, 
 Rafia Sharmin Alice,
 Casey Wall, 
 Nikita Shrestha, 
 Siva Allu, 
+Prakash Madai, 
 Bruce Stofft,
 Afia Farjana, 
 Jahirul Islam,
