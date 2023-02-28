@@ -103,5 +103,5 @@ KC Santosh, Advisor
 
 ### 2AI club resources
 - <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash course series</a>
-
-
+- <a href = 'https://github.com/2AI-Lab/2AI-Club-Code'> Code</a>
+- <a href = 'https://github.com/2AI-Lab/2AI-Club-Presentations'> Presentations</a>
